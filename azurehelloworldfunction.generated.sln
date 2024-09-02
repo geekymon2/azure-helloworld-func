@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.002.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "azurehelloworldfunction", "azurehelloworldfunction.csproj", "{33BC2958-9302-464D-8FBB-F04749C4E1C5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "azurehelloworldfunction", "azurehelloworldfunction.csproj", "{4C358F58-1E6D-478A-9284-9888EC59760E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{33BC2958-9302-464D-8FBB-F04749C4E1C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{33BC2958-9302-464D-8FBB-F04749C4E1C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{33BC2958-9302-464D-8FBB-F04749C4E1C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{33BC2958-9302-464D-8FBB-F04749C4E1C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C358F58-1E6D-478A-9284-9888EC59760E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C358F58-1E6D-478A-9284-9888EC59760E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C358F58-1E6D-478A-9284-9888EC59760E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C358F58-1E6D-478A-9284-9888EC59760E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {DA4BFE24-DBC7-47E8-9BAC-CE1D25893CFF}
+		SolutionGuid = {BD6E5B61-C879-4C21-B74E-AE35EA7AE3D0}
 	EndGlobalSection
 EndGlobal

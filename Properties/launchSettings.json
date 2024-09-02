@@ -2,7 +2,7 @@
   "profiles": {
     "azurehelloworldfunction": {
       "commandName": "Project",
-      "commandLineArgs": "--port 7111",
+      "commandLineArgs": "--port 7153",
       "launchBrowser": false
     }
   }
